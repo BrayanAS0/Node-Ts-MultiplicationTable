@@ -1,2 +1,5 @@
+# Ignorar archivos y directorios
 node_modules/
-output/
+*.log
+dist/
+.env
